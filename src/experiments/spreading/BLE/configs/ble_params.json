@@ -1,0 +1,7 @@
+{
+    "data_params":"D:\\Tesi\\Julia\\Seconda_Parte\\HGEpidemics-main\\src\\experiments\\spreading\\BLE\\configs\\data_params.json",
+    "sim_params":"D:\\Tesi\\Julia\\Seconda_Parte\\HGEpidemics-main\\src\\experiments\\spreading\\BLE\\configs\\sim_params.json",
+    "output_path":"D:\\Tesi\\Julia\\Seconda_Parte\\HGEpidemics-main\\src\\experiments\\spreading\\BLE\\results",
+    "distributed":false,
+    "parallel":false
+}

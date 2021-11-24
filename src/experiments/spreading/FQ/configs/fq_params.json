@@ -1,0 +1,12 @@
+{
+    "data_params":"D:\\Tesi\\Julia\\Seconda_Parte\\HGEpidemics-main\\src\\experiments\\spreading\\FQ\\configs\\data_params.json",
+    "sim_params":"D:\\Tesi\\Julia\\Seconda_Parte\\HGEpidemics-main\\src\\experiments\\spreading\\FQ\\configs\\sim_params.json",
+    "output_path":"D:\\Tesi\\Julia\\Seconda_Parte\\HGEpidemics-main\\src\\experiments\\spreading\\FQ\\results",
+    "agent_damage_path":"data/foursquare/damage/damage_agents.csv",
+    "location_damage_path":"data/foursquare/damage/damage_locs.csv",
+    "plot_infected":true,
+    "store_infected_distribution":true,
+    "store_simulation_data":true,
+    "plot_SIS":true,
+    "store_SIS_data":true    
+}
