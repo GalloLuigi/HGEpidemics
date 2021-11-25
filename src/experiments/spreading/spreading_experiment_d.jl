@@ -41,13 +41,6 @@ using Statistics
 ############################
 #TODO as argsparam
 
-specs = [("luigal@193.205.161.5:22", 4)]
-
-machines=["luigal@193.205.161.5:22 172.16.149.60:5822.luigal"]
-
-
-#t = @async addprocs(machines; tunnel=true, max_parallel=10,sshflags="-o StrictHostKeyChecking=no")
-addprocs(["luigal@193.205.161.5:22"], tunnel=true, sshflags=`-p 5822`,exename="/usr/local/bin/julia")
 
 
 path = "D:\\Tesi\\Julia\\Seconda_Parte\\HGEpidemics-main\\src\\experiments\\spreading\\BLE\\configs\\ble_params.json" #BLE
